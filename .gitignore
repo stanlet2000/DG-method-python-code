@@ -1,3 +1,5 @@
 test.*
 img/
 __pycache__/
+*.tex
+.envrc

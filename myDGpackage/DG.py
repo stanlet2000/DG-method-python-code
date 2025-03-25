@@ -1,7 +1,7 @@
 import numpy as np
-from util import legtable, gauleg, variable_transformation
+from .utils import legtable, gauleg, variable_transformation
 import matplotlib.pyplot as plt
-from Integral import L2_norm_square
+from .Integral import L2_norm_square
 
 
 def phi_table(x, interval, m):

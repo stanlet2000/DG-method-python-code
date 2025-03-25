@@ -1,5 +1,5 @@
 import numpy as np
-from util import *
+from .utils import *
 
 def Gaussian_quadratrue_origin(func, degree=3):
     """
