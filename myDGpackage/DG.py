@@ -1,5 +1,5 @@
 import numpy as np
-from .utils import legtable, gauleg, variable_transformation
+from .utils import *
 import matplotlib.pyplot as plt
 from .Integral import L2_norm_square
 
